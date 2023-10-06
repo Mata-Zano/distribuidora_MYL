@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-06T03:08:16.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="mrR6DyeHWRZxJtl8RhX1" version="22.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-06T03:08:42.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="zurznVetLu0hjsv9sVZr" version="22.0.3" type="github" pages="2">
   <diagram name="Secuencia" id="8AgH-L5KLS1Z7VCSSrDz">
     <mxGraphModel dx="3132" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -669,7 +669,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="rx2fSxx9B7T89DJpczaf" name="Página-2">
+  <diagram id="rx2fSxx9B7T89DJpczaf" name="MER">
     <mxGraphModel dx="1627" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
